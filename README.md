@@ -1,1 +1,0 @@
-# Consumindo dados Jikan API com react

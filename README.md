@@ -1,1 +1,1 @@
-# 4-ReactRequisi-oGET
+# Consumindo dados Jikan API com react
